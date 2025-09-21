@@ -1,8 +1,5 @@
 package OOPs;
 
-import javax.sound.midi.Soundbank;
-import java.util.SortedMap;
-
 public class Polymorphism {
     public static void main(String[] args) {
         Chlid op = new Chlid();
@@ -12,27 +9,32 @@ public class Polymorphism {
         op.display(90); // polymorphism
     }
 
-
 }
-class Parent{
+
+class Parent {
     static int val = 10;
-    private void display(){
-        System.out.println(val);
-    }
-    void display1(){
-        System.out.println(val);
-    }
-    void display(int val){
+
+    private void display() {
         System.out.println(val);
     }
 
-    static void name(){
+    void display1() {
+        System.out.println(val);
+    }
+
+    void display(int val) {
+        System.out.println(val);
+    }
+
+    static void name() {
         System.out.println("hello");
     }
 }
-class Chlid extends Parent{
+
+class Chlid extends Parent {
     int val = 89;
-    void display(){
+
+    void display() {
         System.out.println(val);
     }
 }
