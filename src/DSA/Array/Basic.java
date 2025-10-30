@@ -6,8 +6,8 @@ import java.util.Scanner;
 public class Basic {
     public static void main(String[] args) {
         int[] arr = {1, 2, 3, 4, 5};
-        System.out.println(Arrays.toString(reverse(arr, 0, arr.length - 1)));
-
+        reverse(arr, 0, arr.length - 1);
+        System.out.println(Arrays.toString(arr));
     }
     private static void basicArray(){
         int[] arr = new int[10];
@@ -32,12 +32,11 @@ public class Basic {
         arr[index1] = arr[index2];
         arr[index2] = temp;
     }
-    private static int[] reverse(int[] arr, int start, int end){
-        while(start < end){
+    private static void reverse(int[] arr, int start, int end){
+        while(start < end) {
             swap(arr, start, end);
             start += 1;
             end -= 1;
         }
-        return arr;
     }
 }
