@@ -1,4 +1,4 @@
-package com.dev.staticExamples;
+package com.dev.OOPs.staticExamples;
 
 public class NestedClass {
     static class A{
