@@ -1,4 +1,4 @@
-package com.deva.Patterns;
+package com.dev.Patterns;
 
 public class Patterns {
     public static void main(String[] args) {

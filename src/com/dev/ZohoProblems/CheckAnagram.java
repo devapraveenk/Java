@@ -1,4 +1,4 @@
-package ZohoProblems;
+package com.dev.ZohoProblems;
 import java.util.*;
 
 public class CheckAnagram {

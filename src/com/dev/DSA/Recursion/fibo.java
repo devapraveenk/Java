@@ -1,4 +1,4 @@
-package com.deva.DSA.Recursion;
+package com.dev.DSA.Recursion;
 
 public class fibo {
     public static void main(String[] args) {

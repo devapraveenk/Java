@@ -1,4 +1,4 @@
-package com.deva.OOPs;
+package com.dev.OOPs;
 interface TicketBooking{
     void username();
     private void id(){

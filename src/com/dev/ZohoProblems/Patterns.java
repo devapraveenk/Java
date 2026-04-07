@@ -1,4 +1,4 @@
-package ZohoProblems;
+package com.dev.ZohoProblems;
 
 public class Patterns {
     public static void main(String[] args) {

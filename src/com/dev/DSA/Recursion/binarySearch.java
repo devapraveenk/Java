@@ -1,4 +1,4 @@
-package com.deva.DSA.Recursion;
+package com.dev.DSA.Recursion;
 
 public class binarySearch {
     public static void main(String[] args) {

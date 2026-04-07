@@ -1,4 +1,4 @@
-package com.deva.OOPs;
+package com.dev.OOPs;
 class Computer{
     void print(){
         System.out.println("Hello");

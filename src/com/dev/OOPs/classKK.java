@@ -1,4 +1,4 @@
-package com.deva.OOPs;
+package com.dev.OOPs;
 
 public class classKK {
     public static void main(String[] args) {

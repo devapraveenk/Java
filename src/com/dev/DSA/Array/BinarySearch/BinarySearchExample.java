@@ -1,4 +1,4 @@
-package com.deva.DSA.Array.BinarySearch;
+package com.dev.DSA.Array.BinarySearch;
 
 public class BinarySearchExample {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package com.deva.DSA.Array.BinarySearch;
+package com.dev.DSA.Array.BinarySearch;
 
 // Biggest Number Less than or Equal to Target Number
 public class FloorOfNumber {

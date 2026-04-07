@@ -1,4 +1,4 @@
-package com.deva.DSA.Recursion;
+package com.dev.DSA.Recursion;
 
 public class numberExample {
     public static void main(String[] args) { // set your debug point here and run it, there you can see the stack how the recursion runs!!!

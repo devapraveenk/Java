@@ -1,4 +1,4 @@
-package ZohoProblems;
+package com.dev.ZohoProblems;
 
 public class SecondLargest {
     public static void main(String[] args) {

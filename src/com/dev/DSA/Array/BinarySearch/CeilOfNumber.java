@@ -1,4 +1,4 @@
-package com.deva.DSA.Array.BinarySearch;
+package com.dev.DSA.Array.BinarySearch;
 
 //Smallest number Greater than or Equal to target number
 // to find the ceil of a number in the given array (if not found then it should return the next first greater that number)

@@ -1,4 +1,4 @@
-package Problem;
+package com.dev.Problem;
 
 public class BasicProblems {
     public static void main(String[] args) {

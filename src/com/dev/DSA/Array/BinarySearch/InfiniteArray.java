@@ -1,4 +1,4 @@
-package com.deva.DSA.Array.BinarySearch;
+package com.dev.DSA.Array.BinarySearch;
 
 
 //find an element in infinite array basically it says do not use OR You can find the length of the array
