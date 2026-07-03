@@ -1,4 +1,4 @@
-package com.dev.OOPs;
+package com.dev.OOPs.old;
 
 public class Polymorphism {
     public static void main(String[] args) {

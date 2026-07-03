@@ -1,25 +1,31 @@
-package com.dev.OOPs;
-interface TicketBooking{
+package com.dev.OOPs.old;
+
+interface TicketBooking {
     void username();
-    private void id(){
+
+    private void id() {
         int id_number = 10;
     }
+
     void orderid();
 }
 
-class MainAdmin implements TicketBooking{
-    public void username(){
+class MainAdmin implements TicketBooking {
+    public void username() {
         System.out.println("H;ello Admin");
     }
-    void id(){
+
+    void id() {
         int id_number;
         id_number = 20;
         System.out.println(id_number);
     }
-    public void orderid(){
+
+    public void orderid() {
         System.out.println("New Value");
     }
 }
+
 public class Interface {
     public static void main(String[] args) {
         MainAdmin ma = new MainAdmin();
