@@ -39,6 +39,6 @@ public class Main {
         // class
         // -> i cant create like that constructor with parent class i cant assign value
         // for the weight variable
-        // -> so its not possible
+        // -> so its not possible and throws error.
     }
 }

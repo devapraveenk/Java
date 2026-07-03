@@ -3,7 +3,15 @@ package com.dev.OOPs.properties.inheritance;
 public class ShapeWithWeight extends Shape {
     double weight;
 
+    public ShapeWithWeight() {
+    }
+
     ShapeWithWeight(double weight) {
+        this.weight = weight;
+    }
+
+    ShapeWithWeight(Double h, Double w, Double l, double weight) {
+        super(h, w, l);
         this.weight = weight;
     }
 
